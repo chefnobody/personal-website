@@ -19,6 +19,8 @@ markdown:           kramdown
 nav:
   - name:           "About"
     href:           "about/"
+  - name:           "Apps"
+    href:           "apps/"
   - name:           "Github"
     href:           "http://github.com/chefnobody"
   - name:           "Stack Overflow"
