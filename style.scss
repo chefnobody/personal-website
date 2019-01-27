@@ -89,11 +89,11 @@ dd {
 }
 
 ul {
-  list-style: inside circle;
+  list-style: inside;
   padding-left: 0;
 
   li {
-    margin-bottom: .25rem;
+    margin-bottom: .01rem;
   }
 
   ul,
@@ -173,7 +173,7 @@ pre {
 code {
   padding: .25em .5em;
   font-size: 85%;
-  color: #bf616a;
+  color: #9966ff;
   background-color: #f9f9f9;
   border-radius: 3px;
 }
