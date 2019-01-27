@@ -5,11 +5,11 @@ date: '2019-1-26'
 
 [`create-react-app`](https://github.com/facebook/create-react-app) is a great way to start working with React in a boostrapped development environment, but what if that didn't exist? What if you didn't know what to do after you hit [`eject`](https://github.com/facebook/create-react-app#philosophy)? How might you build a React app from scratch? I want to work through that, by hand. We'll see that its not terribly complicated. As we proceed, we'll do a high-level review of the things you'll need to build and run a React web app on your machine.
 
-**The Shell - TL;DR;**
+**The Shell - TL;DR**
 
-- Install `npm` and Node.js
+- Install [`npm`](https://www.npmjs.com/) and Node.js
 - Create a directory for the project
-- Set up `git` (optional)
+- Set up [`git`](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) (optional)
 - Create `package.json` to manage node packages
 - But Why?
 
