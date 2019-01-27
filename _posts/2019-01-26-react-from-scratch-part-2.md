@@ -1,9 +1,9 @@
 ---
-title: React from Scratch - webpack (Part 1)
+title: React from Scratch - webpack (Part 2)
 date: "2019-1-26"
 ---
 
-Now that we have a shell for our node modules, we should set up tooling to bundle and serve our JavaScript. This will make things easier for us as our app grows in size and complexity. We will turn to [`webpack`](https://webpack.js.org/) to help us with this!
+Now that we have a shell for our node modules, we will set up tooling to bundle and serve our JavaScript. This will make things easier for us as our app grows in size and complexity. We will turn to [`webpack`](https://webpack.js.org/) to help us with this!
 
 At a high level webpack ... (ahem) "packages"  all your JavaScript code and assets into bundles.
 
