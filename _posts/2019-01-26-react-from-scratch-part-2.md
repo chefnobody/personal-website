@@ -10,7 +10,7 @@ At a high level webpack ... (ahem) "packages"  all your JavaScript code and asse
 - The resulting bundles can then be referenced from an HTML Document.
 - You create bundles for different assets whether that is JavaScript, CSS, images, an ES6 module through "loaders".
 
-**Part 2 - TL;DR;**
+**webpack - TL;DR**
 
 - Install webpack
 - Configure webpack
@@ -123,3 +123,7 @@ Hey now! 😵
 ### But Why?
 
 Now is a good time to ask "But why are we doing this?". We're using webpack because manually compiling, obfuscating, compressing and bundling all our JavaScript assets is a ton of work. webpack makes this a snap. Feel free to do that it hand, though. 😎
+
+---
+
+In Part 3, we will write some [React](https://reactjs.org/)! ⚛️

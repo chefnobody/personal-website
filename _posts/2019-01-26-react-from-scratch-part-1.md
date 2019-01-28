@@ -103,5 +103,5 @@ You could howedver, jump right in and start writing React in your web app by inc
 
 ---
 
-In Part 2, we will look at setting up [webpack](https://webpack.js.org/)
+In [Part 2]({% post_url 2019-01-26-react-from-scratch-part-2 %}), we will look at setting up [webpack](https://webpack.js.org/)
 
