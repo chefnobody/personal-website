@@ -1,6 +1,6 @@
 ---
 title: React from Scratch - React (Part 3)
-date: "2019-1-28"
+date: "2019-1-29"
 ---
 
 [React](https://reactjs.org/) is a framework from Facebook that lets us build user interfaces. It is known for its composability and the way it efficiently manages changes to the DOM.

@@ -125,4 +125,4 @@ Now is a good time to ask "But why are we doing this?". We're using webpack beca
 
 ---
 
-In [Part 3]({% post_url 2019-01-26-react-from-scratch-part-3 %}), we will finally write some [React](https://reactjs.org/)! ⚛️
+In [Part 3]({% post_url 2019-01-29-react-from-scratch-part-3 %}), we will finally write some [React](https://reactjs.org/)! ⚛️
