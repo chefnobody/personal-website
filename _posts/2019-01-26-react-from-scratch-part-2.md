@@ -19,7 +19,6 @@ At a high level webpack ... (ahem) "packages"  all your JavaScript code and asse
 - Run webpack!
 - But Why?
 
-
 ### Install webpack
 
 webpack and its cli tool come as a npm packages. Install them as development dependencies like this:
@@ -122,8 +121,8 @@ Hey now! 😵
 
 ### But Why?
 
-Now is a good time to ask "But why are we doing this?". We're using webpack because manually compiling, obfuscating, compressing and bundling all our JavaScript assets is a ton of work. webpack makes this a snap. Feel free to do that it hand, though. 😎
+Now is a good time to ask "But why are we doing this?". We're using webpack because manually compiling, obfuscating, compressing and bundling all our JavaScript assets is a ton of work. webpack makes this a snap. Feel free to do that by hand, though. 😎
 
 ---
 
-In Part 3, we will write some [React](https://reactjs.org/)! ⚛️
+In [Part 3]({% post_url 2019-01-26-react-from-scratch-part-3 %}), we will finally write some [React](https://reactjs.org/)! ⚛️

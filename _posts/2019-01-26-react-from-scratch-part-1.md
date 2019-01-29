@@ -99,7 +99,7 @@ Finally, run `npm install`. This will create a `package-lock.json` which allows 
 
 Why do I have to do all of this just to start building a React app? Well, the short answer is that `npm` is the standard software registry for JavaScript packages. We will install and make use of several packages hosted on `npm`. We want to try and build something that can be a base from which to scale.
 
-You could howedver, jump right in and start writing React in your web app by including link to both [CDN-hosted React and ReactDOM](https://reactjs.org/docs/cdn-links.html).
+You could, however, jump right in and start writing React in your web app by including links to both [CDN-hosted React and ReactDOM](https://reactjs.org/docs/cdn-links.html).
 
 ---
 
