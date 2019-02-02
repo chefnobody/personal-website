@@ -139,7 +139,7 @@ Install them and watch `node_modules` swell like a full belly on Thanksgiving! ð
 $ npm install babel-loader @babel/core @babel/preset-react --save-dev
 ```
 
-Now that all of those things are installed, how do we _tell_ webpack to use a babel-loader for our JavaScript files _and_ that I want to use the `react-preset`? A: In `webpack.config.js` add the loader as a new `module` key with some rules for which file types, folder exclusions, loader and presets:
+Now that all of those things are installed, how do we _tell_ webpack to use a babel-loader for our JavaScript files _and_ that I want to use the react preset? A: In `webpack.config.js` add the loader as a new `module` key with some rules for which file types, folder exclusions, loader and presets:
 
 ```javascript
 const path = require('path');
@@ -158,7 +158,7 @@ module.exports = {
         use: {
           loader: 'babel-loader',
           options: {
-            presets: ['@babel/preset-env']
+            presets: ['@babel/preset-react']
           }
         }
       }
