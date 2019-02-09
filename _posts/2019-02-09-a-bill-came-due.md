@@ -1,5 +1,5 @@
 ---
-title: A Bill was Due
+title: A Bill Came Due
 date: "2019-2-09"
 ---
 
