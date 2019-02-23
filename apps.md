@@ -8,7 +8,7 @@ permalink: /apps/
 </a>
 
 <p class="lead">
-Scripsure is a speech-to-text app for memorizing Scripture in the Bible. Pick a verse, dictate it and receive a score!
+Scripsure is a POC speech-to-text app for memorizing Scripture in the Bible. Pick a verse, dictate it and receive a score!
 </p>
 
 <a href="https://itunes.apple.com/us/app/scripsure/id1180364382?mt=8">Download</a>
