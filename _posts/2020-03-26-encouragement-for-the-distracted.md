@@ -1,6 +1,6 @@
 ---
 title: Encouragement for the Distracted
-date: "2019-6-16"
+date: "2020-3-26"
 ---
 
 **Scenario:** It is a weekday. You are working on a feature/bug deep in a part of your codebase and not making any progress. Thoughts of all sorts are flying through your mind:
