@@ -19,14 +19,12 @@ markdown:           kramdown
 nav:
   - name:           "About"
     href:           "about/"
-  - name:           "Apps"
-    href:           "apps/"
   - name:           "Github"
     href:           "http://github.com/chefnobody"
   - name:           "Stack Overflow"
     href:           "http://stackoverflow.com/users/1396884/aaron"
   - name:           "Resume"
-    href:           "assets/mac-resume-3-19-2019.pdf"
+    href:           "assets/mac-resume-5-28-2020.pdf"
 
 # Sass
 sass:
