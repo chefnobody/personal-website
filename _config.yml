@@ -21,8 +21,8 @@ nav:
     href:           "about/"
   - name:           "Github"
     href:           "http://github.com/chefnobody"
-  - name:           "Stack Overflow"
-    href:           "http://stackoverflow.com/users/1396884/aaron"
+  - name:           "Reading List"
+    href:           "reading-list/"
   - name:           "Resume"
     href:           "assets/mac-resume-5-28-2020.pdf"
 
